@@ -1,8 +1,6 @@
 CroMag
 ==============
 
-[![build status][1]][2]
-
 This is the beginnings of a game project, just a pet project of mine. Everything is already setup for dev, test and linting. This project is using ES2015 syntax with the help of Babel 6.
 
 first run `npm install`
